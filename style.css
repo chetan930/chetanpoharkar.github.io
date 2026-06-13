@@ -378,7 +378,7 @@ pre {
 /* First project card only */
 .project-card-bg {
   position: relative;
-  background: url("assets/crijan.png") center center/cover no-repeat;
+  background: url("./assets/crijan.png") center center/cover no-repeat;
   overflow: hidden;
 }
 
